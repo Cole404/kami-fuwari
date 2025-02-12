@@ -54,26 +54,6 @@ export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/home_avatar.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Kamiyd',
   bio: '路漫漫其修远兮，吾将上下而求索',
-  links: [
-    {
-      name: 'Weibo',
-      icon: 'fa6-brands:github" />',       // Visit https://icones.js.org/ for icon codes
-                                        // You will need to install the corresponding icon set if it's not already included
-                                        // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://weibo.com/miuarimura',
-    },
-    {
-      name: 'X',
-      icon: 'fa6-brands:github',
-      url: 'https:/x.com',
-    },
-    {
-      name: 'GitHub',
-      icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
-    },
-  ],
-}
 
 export const licenseConfig: LicenseConfig = {
   enable: true,
