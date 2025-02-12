@@ -51,21 +51,21 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/home_avatar.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Kamiyd',
   bio: '路漫漫其修远兮，吾将上下而求索',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
+      name: 'Weibo',
+      icon: 'fa6-brands:github" />',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
+      url: 'https://weibo.com/miuarimura',
     },
     {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      name: 'X',
+      icon: 'fa6-brands:github',
+      url: 'https:/x.com',
     },
     {
       name: 'GitHub',
