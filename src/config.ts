@@ -58,7 +58,7 @@ links: [
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/Lapis0x0',
+      url: 'https://github.com/Cole404/kami-fuwari',
     },
   ],
 }
