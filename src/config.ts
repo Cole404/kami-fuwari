@@ -57,14 +57,14 @@ export const profileConfig: ProfileConfig = {
   links: [
     {
       name: 'Weibo',
-      icon: 'fa6-brands:twitter" />',       // Visit https://icones.js.org/ for icon codes
+      icon: 'fa6-brands:github" />',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
       url: 'https://weibo.com/miuarimura',
     },
     {
       name: 'X',
-      icon: 'fa6-brands:twitter',
+      icon: 'fa6-brands:github',
       url: 'https:/x.com',
     },
     {
