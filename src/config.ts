@@ -54,7 +54,9 @@ export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/home_avatar.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Kamiyd',
   bio: '路漫漫其修远兮，吾将上下而求索',
-
+link:[
+  {
+  },
 export const licenseConfig: LicenseConfig = {
   enable: true,
   name: 'CC BY-NC-SA 4.0',
